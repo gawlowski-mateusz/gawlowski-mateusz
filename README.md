@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mateusz Gawłowski</h1>
-<h3 align="center">Third-year Computer Science student passionate about software development, constantly improving skills and gaining experience.</h3>
+<h3 align="center">Fourth-year Computer Science student passionate about software development, constantly improving skills and gaining experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawlowski-mateusz&label=Profile%20views&color=0e75b6&style=flat" alt="gawlowski-mateusz" /> </p>
 
-- 🌱 I’m currently learning **Data processing in Python**
+- 🌱 I’m currently learning **Data acquisition and processing via BLE 5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gawlowski-mateusz?tab=repositories](https://github.com/gawlowski-mateusz?tab=repositories)
 
-- 💬 Ask me about **OOP, Data structures ect.**
+- 💬 Ask me about **Machine learning basics, image processing ect.**
 
 - 📫 How to reach me **dev.gawlowski.mateusz@gmail.com**
 
