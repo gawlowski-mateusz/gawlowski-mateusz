@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dev.gawlowski.mateusz@gmail.com**
 
-- 📄 Know about my experiences [https://mateusz-gawlowski-resume.tiiny.site](https://mateusz-gawlowski-resume.tiiny.site)
+- 📄 Know about my experiences [https://galowski-mateusz.tiiny.site](https://gawlowski-mateusz.tiiny.site)
 
 - ⚡ Fun fact **My other project I'm working on is my race car**
 
