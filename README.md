@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawlowski-mateusz&label=Profile%20views&color=0e75b6&style=flat" alt="gawlowski-mateusz" /> </p>
 
-- 🌱 I'm currently learning AWS Cloud Services and Solutions Architecture
+- 🌱 I'm currently learning mathematical background of modern AI
 
 - 👨‍💻 All of my projects are available at [https://github.com/gawlowski-mateusz?tab=repositories](https://github.com/gawlowski-mateusz?tab=repositories)
 
-- 💬 Ask me about **Statistics and Data Science**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **dev.gawlowski.mateusz@gmail.com**
 
